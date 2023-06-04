@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaxeb
 - 👀 I’m interested in Embedded Systems and Kernel Programming
-- 🌱 I’m currently learning C, C++.
-- 💞️ I’m looking to collaborate on Arduino projects
+- 🌱 I’m currently learning Python, opencv and pytorch.
+- 💞️ I’m looking to collaborate on computer vision AI projects
 - 📫 How to reach me: 
   email: mdshahzeb@live.in
   phone: +917488293634
